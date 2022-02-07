@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(228, 227, 227);
+    height: 98vh;
+}
+
+.main {
+    background-color: #ffffff;
+    width: 380px;
+    text-align: center;
+    margin: 80px auto;
+    padding: 15px 15px 50px 15px;
+    border-radius: 10px;
+}
+
+.main img {
+    width: 380px;
+    height: 380px;
+    border-radius: 10px;
+}
+
+.main .text h1 {
+    font-family: "Arial black";
+}
+
+.main .text p {
+    font-size: 18px;
+    margin: 0 29px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: "Arial";
+}
+
+.improve {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.skills {
+    font-size: 23px;
+    margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
